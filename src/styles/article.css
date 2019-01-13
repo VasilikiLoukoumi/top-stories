@@ -1,0 +1,101 @@
+.article {
+    margin: 1%;
+}
+
+h3 {
+    color: whitesmoke;
+}
+
+.bbc-articles {
+    background-color: dodgerblue;
+    padding: 1%;
+    border-radius: 8px;
+}
+
+.news-api-link {
+    color: whitesmoke;
+}
+
+.wp-articles {
+    background-color: yellowgreen;
+    padding: 1%;
+    border-radius: 8px;
+}
+
+.rt-articles {
+    background-color: indianred;
+    padding: 1%;
+    border-radius: 8px;
+}
+
+.le-monde-articles {
+    background-color: goldenrod;
+    padding: 1%;
+    border-radius: 8px;
+}
+
+.la-republica-articles {
+    background-color: green;
+    padding: 1%;
+    border-radius: 8px;
+}
+
+.aj-articles {
+    background-color: silver;
+    padding: 1%;
+    border-radius: 8px;
+}
+
+.newsDotcom-articles {
+    background-color: cornflowerblue;
+    padding: 1%;
+    border-radius: 8px;
+}
+
+.xinhua-articles {
+    background-color: red;
+    padding: 1%;
+    border-radius: 8px;
+}
+
+.sp-articles {
+    background-color: yellow;
+    padding: 1%;
+    border-radius: 8px;
+}
+
+.toi-articles {
+    background-color: darkolivegreen;
+    padding: 1%;
+    border-radius: 8px;
+}
+
+.el-mundo-articles {
+    background-color: salmon;
+    padding: 1%;
+    border-radius: 8px;
+}
+
+.globo-articles {
+    background-color: darkkhaki;
+    padding: 1%;
+    border-radius: 8px;
+}
+
+.g-posten-articles {
+    background-color: palevioletred;
+    padding: 1%;
+    border-radius: 8px;
+}
+
+.irish-times-articles {
+    background-color: green;
+    padding: 1%;
+    border-radius: 8px;
+}
+
+.rtl-articles {
+    background-color: skyblue;
+    padding: 1%;
+    border-radius: 8px;
+}
